@@ -1,5 +1,5 @@
 # Homework #5
-
+<details>
 ## Instructions
 ---
 1. Fork and clone this repo.
